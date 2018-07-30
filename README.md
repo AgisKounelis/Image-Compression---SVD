@@ -1,5 +1,5 @@
 # Image Compression - SVD
-Image Compression using Singular-value decomposition
+Image Compression using Singular-value decomposition.
 Download .jar file here: http://students.ceid.upatras.gr/~st1059637/svd.html
 
 # Development
@@ -16,3 +16,9 @@ Kounelis Agisilaos
 
 # Acknowledgments
 I want to give thanks to the developers at OjAlgo for their great libraries.
+
+# Example #1
+![Example #1](https://raw.githubusercontent.com/AgisKounelis/Image-Compression---SVD/master/_images/1.png)
+
+# Example #2
+![Example #2](https://raw.githubusercontent.com/AgisKounelis/Image-Compression---SVD/master/_images/2.png)
