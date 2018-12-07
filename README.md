@@ -1,6 +1,6 @@
 # Image Compression - SVD
 Image Compression using Singular-value decomposition.
-Download .jar file here: https://kounelisagis.com/SVD.jar/
+Download .jar file here: https://kounelisagis.com/SVD.jar
 
 # Development
 Eclipse, Java, Swing, OjAlgo Java library
